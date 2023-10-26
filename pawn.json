@@ -1,5 +1,5 @@
 {
-    "user": "RizkyLimit",
+    "user": "Central-Universe",
     "repo": "samp-textdraw-streamer",
     "resources": [
         {
@@ -18,6 +18,6 @@
         }
     ],
     "runtime": {
-        "plugins": ["RizkyLimit/samp-textdraw-streamer"]
+        "plugins": ["Central-Universe/samp-textdraw-streamer"]
     }
 }
